@@ -4,18 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures and Algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_Big_O/_01_Analyzing_time_complexity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_Big_O/_02_Logarithmic_time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_Big_O/_03_Analyzing_space_complexity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_LinkedLists/_01_Array.java" afterDir="false" />
+    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="LeetCode introduction to Big O">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_Recursion/_01_print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_Recursion/_02_Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_01_Two_Pointers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Stacks_and_Queues/FinalPrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Stacks_and_Queues/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Stacks_and_Queues/_01_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Stacks_and_Queues/_02_String_problems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_Array_and_LinkedLists/_01_Array.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,18 +37,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -60,10 +61,24 @@
       <updated>1683160223898</updated>
       <workItem from="1683160224939" duration="2856000" />
       <workItem from="1683163125767" duration="4000" />
+      <workItem from="1683163142052" duration="636000" />
+      <workItem from="1683283940011" duration="14381000" />
     </task>
+    <task id="LOCAL-00001" summary="LeetCode introduction to Big O">
+      <created>1683163325781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683163325781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LeetCode introduction to Big O" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode introduction to Big O" />
   </component>
 </project>
