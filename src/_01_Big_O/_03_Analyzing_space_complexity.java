@@ -4,7 +4,7 @@ public class _03_Analyzing_space_complexity { // 공간복잡도 분석
     public static void main(String[] args) {
         int num = 5;
 
-        // 공간복잡도 O(1)
+        // 공간복잡도 O(1) - 배열 안쓴다
         for (int i = 0; i < num; i++) {
             System.out.println(num);
         }
@@ -13,7 +13,7 @@ public class _03_Analyzing_space_complexity { // 공간복잡도 분석
 
         int[] arr = {1, 2, 3};
 
-        // 공간복잡도 O(N)
+        // 공간복잡도 O(N) - 배열 사용 (1차원)
         int[] doubleNums = new int[3];
         for (int i = 0; i < arr.length; i++) {
             doubleNums[i] = arr[i]*2;

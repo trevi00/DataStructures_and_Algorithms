@@ -31,8 +31,8 @@ public class MyQueue {
         stack2 = new Stack<>();
     }
 
-    public void push(int num) {
-        while ( !stack1.isEmpty() ){
+    public void push(int num) { // O(1)
+        while( !stack1.isEmpty() ){
             stack2.push(stack1.pop());
         }
 
@@ -43,15 +43,15 @@ public class MyQueue {
         }
     }
 
-    public int pop() {
+    public int pop() { // *O(1)
         return stack1.pop();
     }
 
-    public int peek() {
+    public int peek() { // O(1)
         return stack1.peek();
     }
 
-    public boolean empty() {
+    public boolean empty() { // O(1)
         return stack1.isEmpty();
     }
 

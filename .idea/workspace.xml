@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="LeetCode introduction to Big O">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_Recursion/_01_print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_Recursion/_02_Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_01_Two_Pointers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Stacks_and_Queues/FinalPrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Stacks_and_Queues/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Stacks_and_Queues/_01_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Stacks_and_Queues/_02_String_problems.java" afterDir="false" />
+    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="Two pointers, pibo void fn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_03_Array_and_LinkedLists/_01_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Big_O/_03_Analyzing_space_complexity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Big_O/_03_Analyzing_space_complexity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_Array_and_Strings/_01_Two_Pointers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_01_Two_Pointers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_06_Stacks_and_Queues/FinalPrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Stacks_and_Queues/FinalPrices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_06_Stacks_and_Queues/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Stacks_and_Queues/MyQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +57,7 @@
       <workItem from="1683160224939" duration="2856000" />
       <workItem from="1683163125767" duration="4000" />
       <workItem from="1683163142052" duration="636000" />
-      <workItem from="1683283940011" duration="14381000" />
+      <workItem from="1683283940011" duration="17862000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode introduction to Big O">
       <created>1683163325781</created>
@@ -71,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683163325781</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Two pointers, pibo void fn">
+      <created>1683330971397</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683330971397</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +81,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="LeetCode introduction to Big O" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode introduction to Big O" />
+    <MESSAGE value="Two pointers, pibo void fn" />
+    <option name="LAST_COMMIT_MESSAGE" value="Two pointers, pibo void fn" />
   </component>
 </project>
