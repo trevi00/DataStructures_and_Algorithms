@@ -1,4 +1,4 @@
-package _03_Array_and_Strings.Two_Pointers;
+package _03_Array_and_Strings._01_TwoPointers;
 
 import java.util.ArrayList;
 import java.util.List;

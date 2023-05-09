@@ -1,4 +1,4 @@
-package _03_Array_and_Strings.Two_Pointers;
+package _03_Array_and_Strings._01_TwoPointers;
 
 public class _01_Two_Pointers {
 

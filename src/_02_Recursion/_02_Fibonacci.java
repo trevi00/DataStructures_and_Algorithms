@@ -2,7 +2,7 @@ package _02_Recursion;
 
 public class _02_Fibonacci {
     public static void main(String[] args) {
-        System.out.println(Fibo(10));
+        System.out.println(Fibo(4));
         Fibo2(10);
     }
 

@@ -1,4 +1,4 @@
-package _03_Array_and_Strings.Two_Pointers;
+package _03_Array_and_Strings._01_TwoPointers;
 
 public class _04_Two_Pointers_Utilize_03 {
     public static void main(String[] args) {
