@@ -11,8 +11,8 @@ public class _01_Two_Pointers {
     // 양끝단의 포인터가 서로를 만날때까지 이동
     public static boolean checkIfPalindrome(String s) {
 
-        int left = 0;
-        int right = s.length() - 1;
+        int left = 0; // 포인터1
+        int right = s.length() - 1; //포인터2
 
         //양단에서 시작해서 다른게 있으면 false 반환
         //예를들어 examaxe는 거짓을 반환하지 않는다.

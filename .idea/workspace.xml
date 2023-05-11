@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="수정">
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_02_Slidingwindow/_01_Sliding_Window.java" afterDir="false" />
+    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="SlidingWindow 시작">
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_02_Slidingwindow/_00_Sliding_Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_02_Slidingwindow/_02_Sliding_Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_02_Slidingwindow/_03_Number_of_subarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_02_Slidingwindow/_04_Fixed_window_size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_LinkedLists/_01_ListNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_Recursion/_02_Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_Recursion/_02_Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_03_Array_and_Strings/Two_Pointers/_01_Two_Pointers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_01_TwoPointers/_01_Two_Pointers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_03_Array_and_Strings/Two_Pointers/_02_Two_Pointers_Utilize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_01_TwoPointers/_02_Two_Pointers_Utilize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_03_Array_and_Strings/Two_Pointers/_03_Two_Pointers_Utilize_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_01_TwoPointers/_03_Two_Pointers_Utilize_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_03_Array_and_Strings/Two_Pointers/_04_Two_Pointers_Utilize_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_01_TwoPointers/_04_Two_Pointers_Utilize_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_03_Array_and_Strings/Two_Pointers/_05_ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_01_TwoPointers/_05_ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_03_Array_and_Strings/Two_Pointers/_06_Squares_of_a_SortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_01_TwoPointers/_06_Squares_of_a_SortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_Array_and_Strings/_01_TwoPointers/_01_Two_Pointers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_01_TwoPointers/_01_Two_Pointers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_Array_and_Strings/_02_Slidingwindow/_01_Sliding_Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_02_Slidingwindow/_01_Sliding_Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
       <workItem from="1683163125767" duration="4000" />
       <workItem from="1683163142052" duration="636000" />
       <workItem from="1683283940011" duration="17862000" />
-      <workItem from="1683529579271" duration="6350000" />
+      <workItem from="1683529579271" duration="15696000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode introduction to Big O">
       <created>1683163325781</created>
@@ -85,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683527322896</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="SlidingWindow 시작">
+      <created>1683610100496</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683610100496</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +101,7 @@
     <MESSAGE value="LeetCode introduction to Big O" />
     <MESSAGE value="Two pointers, pibo void fn" />
     <MESSAGE value="수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="수정" />
+    <MESSAGE value="SlidingWindow 시작" />
+    <option name="LAST_COMMIT_MESSAGE" value="SlidingWindow 시작" />
   </component>
 </project>
