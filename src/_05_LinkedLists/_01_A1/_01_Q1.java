@@ -1,5 +1,7 @@
 package _05_LinkedLists._01_A1;
 
+import _05_LinkedLists.ListNode;
+
 public class _01_Q1 {
     public static void main(String[] args) {
         ListNode l3 = new ListNode(1);

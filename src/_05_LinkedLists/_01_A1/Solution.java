@@ -1,5 +1,7 @@
 package _05_LinkedLists._01_A1;
 
+import _05_LinkedLists.ListNode;
+
 public class Solution {
     public int getDecimalValue(ListNode head) { // 101(2)
         if ( head == null ){
