@@ -1,10 +1,10 @@
 package _05_LinkedLists;
 
-public class SSL {
+public class SLL {
     int size = 0;
     ListNode head;
 
-    public SSL(){
+    public SLL(){
         head = null;
     }
 
