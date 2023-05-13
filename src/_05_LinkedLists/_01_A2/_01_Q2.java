@@ -13,6 +13,5 @@ public class _01_Q2 {
         ListNode l2_1 = new ListNode(4, l2_2);
 
         Solution sl = new Solution();
-        sl.addTwoNumbers(l1_1, l2_1);
     }
 }

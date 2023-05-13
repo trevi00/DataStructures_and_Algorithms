@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="Two pointers, pibo void fn">
+    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="수정">
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/myArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_LinkedLists/DLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_LinkedLists/ListNodeD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_LinkedLists/SSL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_LinkedLists/_LeetCode_02_MiddleOfTheLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_LinkedLists/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Stacks_and_Queues/_PRGS_01_12909.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Stacks_and_Queues/_PRGS_02_42586.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_LinkedLists/_01_A1/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_LinkedLists/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_LinkedLists/_01_A1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_LinkedLists/_01_A1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_LinkedLists/_01_A1/_01_Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_LinkedLists/_01_A1/_01_Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_LinkedLists/_01_A2/ListNode.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/_05_LinkedLists/_01_A2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_LinkedLists/_01_A2/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/_05_LinkedLists/_01_A2/_01_Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_LinkedLists/_01_A2/_01_Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_06_Stacks_and_Queues/_02_String_problems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Stacks_and_Queues/_02_String_problems.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,16 +50,10 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="_05_LinkedLists" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -67,7 +66,8 @@
       <workItem from="1683163125767" duration="4000" />
       <workItem from="1683163142052" duration="636000" />
       <workItem from="1683283940011" duration="17862000" />
-      <workItem from="1683490797419" duration="7674000" />
+      <workItem from="1683529579271" duration="6350000" />
+      <workItem from="1683965610602" duration="15948000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode introduction to Big O">
       <created>1683163325781</created>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683330971397</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="수정">
+      <created>1683527322895</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683527322896</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="LeetCode introduction to Big O" />
     <MESSAGE value="Two pointers, pibo void fn" />
-    <option name="LAST_COMMIT_MESSAGE" value="Two pointers, pibo void fn" />
+    <MESSAGE value="수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="수정" />
   </component>
 </project>
