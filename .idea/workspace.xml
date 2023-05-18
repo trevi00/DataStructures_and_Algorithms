@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="SLL DLL ArrayList 수정">
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_02_Slidingwindow/_05_Fixed_window_size_ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_02_Slidingwindow/_06_Maximum_Average_Subarry_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_02_Slidingwindow/_07_Max_Consecutive_Ones_3.java" afterDir="false" />
+    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="Sliding Window">
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_03_Prefix_sum/_00_WIP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_03_Prefix_sum/_01_PrefixSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_03_Array_and_Strings/_02_Slidingwindow/_03_Number_of_subarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_02_Slidingwindow/_03_Number_of_subarrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_03_Array_and_Strings/_02_Slidingwindow/_04_Fixed_window_size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_02_Slidingwindow/_04_Fixed_window_size.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_LinkedLists/DLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_LinkedLists/SG_LinkedList_PT/DLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_LinkedLists/ListNodeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_LinkedLists/SG_LinkedList_PT/ListNodeD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_LinkedLists/SLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_LinkedLists/SG_LinkedList_PT/SLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_LinkedLists/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_LinkedLists/SG_LinkedList_PT/testDDL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PJ19ouSf94vkO5dJVmeQ6wqZAw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -72,7 +68,8 @@
       <workItem from="1684216528906" duration="45000" />
       <workItem from="1684216611526" duration="3000" />
       <workItem from="1684235239166" duration="359000" />
-      <workItem from="1684368878340" duration="7259000" />
+      <workItem from="1684368878340" duration="7310000" />
+      <workItem from="1684382083728" duration="1959000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode introduction to Big O">
       <created>1683163325781</created>
@@ -109,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683984078222</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Sliding Window">
+      <created>1684377299238</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684377299238</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +125,7 @@
     <MESSAGE value="수정" />
     <MESSAGE value="SLL DLL ArrayList" />
     <MESSAGE value="SLL DLL ArrayList 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="SLL DLL ArrayList 수정" />
+    <MESSAGE value="Sliding Window" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sliding Window" />
   </component>
 </project>
