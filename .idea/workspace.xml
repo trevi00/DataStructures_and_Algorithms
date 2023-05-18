@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="Sliding Window">
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_03_Prefix_sum/_00_WIP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_03_Prefix_sum/_01_PrefixSum.java" afterDir="false" />
+    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="prefix sum 누적합 입문">
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_03_Prefix_sum/_02_Number_of_Ways_to_Split_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_03_Prefix_sum/_03_Running_Sum_of_1d_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_03_Prefix_sum/_04_Minimum_Value_to_Get_Positive_Step_by_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_04_StringBuilder_class/_01_StringBuilderClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +71,7 @@
       <workItem from="1684216611526" duration="3000" />
       <workItem from="1684235239166" duration="359000" />
       <workItem from="1684368878340" duration="7310000" />
-      <workItem from="1684382083728" duration="1959000" />
+      <workItem from="1684382083728" duration="7421000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode introduction to Big O">
       <created>1683163325781</created>
@@ -113,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684377299238</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="prefix sum 누적합 입문">
+      <created>1684384389202</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684384389202</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +135,23 @@
     <MESSAGE value="SLL DLL ArrayList" />
     <MESSAGE value="SLL DLL ArrayList 수정" />
     <MESSAGE value="Sliding Window" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sliding Window" />
+    <MESSAGE value="prefix sum 누적합 입문" />
+    <option name="LAST_COMMIT_MESSAGE" value="prefix sum 누적합 입문" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_03_Array_and_Strings/_03_Prefix_sum/_02_Number_of_Ways_to_Split_Array.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_03_Array_and_Strings/_03_Prefix_sum/_04_Minimum_Value_to_Get_Positive_Step_by_Sum.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
