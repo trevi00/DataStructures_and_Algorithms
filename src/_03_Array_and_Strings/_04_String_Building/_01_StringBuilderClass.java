@@ -1,4 +1,4 @@
-package _03_Array_and_Strings._04_StringBuilder_class;
+package _03_Array_and_Strings._04_String_Building;
 
 //StringBuilder class를 사용하는 것은
 //1.문자열을 만들때, 문자들로 리스트를 추가한다.

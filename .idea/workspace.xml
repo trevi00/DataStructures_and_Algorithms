@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="prefix sum 누적합 입문">
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_03_Prefix_sum/_02_Number_of_Ways_to_Split_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_03_Prefix_sum/_03_Running_Sum_of_1d_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_03_Prefix_sum/_04_Minimum_Value_to_Get_Positive_Step_by_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_04_StringBuilder_class/_01_StringBuilderClass.java" afterDir="false" />
+    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="버전 없는 파일 커밋">
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_05_Sub_things/_00_Sub_level_things.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_Hashing/_00_WIH.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_Array_and_Strings/_04_StringBuilder_class/_01_StringBuilderClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_04_String_Building/_01_StringBuilderClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <workItem from="1684216611526" duration="3000" />
       <workItem from="1684235239166" duration="359000" />
       <workItem from="1684368878340" duration="7310000" />
-      <workItem from="1684382083728" duration="7421000" />
+      <workItem from="1684382083728" duration="11284000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode introduction to Big O">
       <created>1683163325781</created>
@@ -122,11 +121,36 @@
       <option name="project" value="LOCAL" />
       <updated>1684384389202</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="prefix sum 누적합 끝내고&#10;StringBuilder 공간복잡도 O(N)의 문자열 공부">
+      <created>1684391380102</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684391380102</updated>
+    </task>
+    <task id="LOCAL-00009" summary="버전 없는 파일 커밋">
+      <created>1684391425347</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684391425347</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="LeetCode introduction to Big O" />
@@ -136,7 +160,9 @@
     <MESSAGE value="SLL DLL ArrayList 수정" />
     <MESSAGE value="Sliding Window" />
     <MESSAGE value="prefix sum 누적합 입문" />
-    <option name="LAST_COMMIT_MESSAGE" value="prefix sum 누적합 입문" />
+    <MESSAGE value="prefix sum 누적합 끝내고&#10;StringBuilder 공간복잡도 O(N)의 문자열 공부" />
+    <MESSAGE value="버전 없는 파일 커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="버전 없는 파일 커밋" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
