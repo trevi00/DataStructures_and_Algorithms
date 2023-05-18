@@ -1,6 +1,6 @@
-package _05_LinkedLists;
+package _05_LinkedLists.SG_LinkedList_PT;
 
-public class test {
+public class testDDL {
     public static void main(String[] args) {
         DLL dll = new DLL();
         dll.addFront(1);

@@ -8,12 +8,15 @@ public class _04_Fixed_window_size {
         // 첫 번째 윈도우 구성
         for (int i = 0; i < k; i++) {
             // curr 또는 다른 변수를 사용하여 첫 번째 윈도우 구성 작업 수행
+            curr += arr[i];
         }
 
         int ans = 0; // 결과 변수, 문제에 따라 curr과 같을 수도 있음
         for (int i = k; i < arr.length; i++) {
             // arr[i]를 윈도우에 추가
-            // arr[i - k]를 윈도우에서 제거
+
+            // 조건에 맞지 않으면, arr[i - k]를 윈도우에서 제거
+
             // ans 업데이트
         }
 

@@ -1,4 +1,6 @@
-package _05_LinkedLists;
+package _05_LinkedLists.SG_LinkedList_PT;
+
+import _05_LinkedLists.ListNode;
 
 public class SLL {
     int size = 0;

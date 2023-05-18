@@ -1,4 +1,4 @@
-package _05_LinkedLists;
+package _05_LinkedLists.SG_LinkedList_PT;
 
 public class ListNodeD {
     public int val;
