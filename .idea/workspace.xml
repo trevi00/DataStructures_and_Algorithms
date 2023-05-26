@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="버전 없는 파일 커밋">
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_05_Sub_things/_00_Sub_level_things.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_Hashing/_00_WIH.md" afterDir="false" />
+    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/LEETCODE/_283_MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/LEETCODE/_557_Fast_ReverseWordsInAString3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/LEETCODE/_557_ReverseWordsInAString3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/LEETCODE/_917_ReverseOnlyLetters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/2023-05-13__3_20__________.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/2023-05-13_오후_3_20,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_03_Array_and_Strings/_04_StringBuilder_class/_01_StringBuilderClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_04_String_Building/_01_StringBuilderClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_Hashing/_00_WIH.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Hashing/_00_WIH.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +54,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_03_Array_and_Strings.LEETCODE" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -70,7 +79,10 @@
       <workItem from="1684216611526" duration="3000" />
       <workItem from="1684235239166" duration="359000" />
       <workItem from="1684368878340" duration="7310000" />
-      <workItem from="1684382083728" duration="11284000" />
+      <workItem from="1684382083728" duration="11808000" />
+      <workItem from="1684571578810" duration="1901000" />
+      <workItem from="1684886685857" duration="5706000" />
+      <workItem from="1684993344458" duration="8464000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode introduction to Big O">
       <created>1683163325781</created>
@@ -135,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684391425347</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="배열과 문자열을 다루는 법.&#10;-완-">
+      <created>1684397640796</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684397640796</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +181,8 @@
     <MESSAGE value="prefix sum 누적합 입문" />
     <MESSAGE value="prefix sum 누적합 끝내고&#10;StringBuilder 공간복잡도 O(N)의 문자열 공부" />
     <MESSAGE value="버전 없는 파일 커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="버전 없는 파일 커밋" />
+    <MESSAGE value="배열과 문자열을 다루는 법.&#10;-완-" />
+    <option name="LAST_COMMIT_MESSAGE" value="배열과 문자열을 다루는 법.&#10;-완-" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
