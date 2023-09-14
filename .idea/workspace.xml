@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/LEETCODE/_283_MoveZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/LEETCODE/_557_Fast_ReverseWordsInAString3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/LEETCODE/_557_ReverseWordsInAString3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/LEETCODE/_917_ReverseOnlyLetters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/2023-05-13__3_20__________.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/2023-05-13_오후_3_20,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/shelved.patch" beforeDir="false" />
+    <list default="true" id="1b765eec-44de-451c-8432-862143aeaba1" name="변경" comment="문제풀이">
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_01_Josephus_slidingwindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Array_and_Strings/_03_Prefix_sum/_05_K_RadiusSubarrayAverages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_Hashing/_01_HowToUseH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_Hashing/_02_CheckingForExistence.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_Hashing/_02_TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_Hashing/_03_FirstLetterToAppearTwice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_Hashing/_04_ListAndH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/_04_Hashing/_00_WIH.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Hashing/_00_WIH.md" afterDir="false" />
     </list>
@@ -32,6 +35,12 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2PJ19ouSf94vkO5dJVmeQ6wqZAw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,12 +54,12 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rudtn/IdeaProjects/csNote&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rudtn/IdeaProjects/java_basic&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -82,7 +91,20 @@
       <workItem from="1684382083728" duration="11808000" />
       <workItem from="1684571578810" duration="1901000" />
       <workItem from="1684886685857" duration="5706000" />
-      <workItem from="1684993344458" duration="8464000" />
+      <workItem from="1684993344458" duration="8494000" />
+      <workItem from="1685182289725" duration="298000" />
+      <workItem from="1685421028817" duration="2269000" />
+      <workItem from="1685679400658" duration="1025000" />
+      <workItem from="1685764681186" duration="35000" />
+      <workItem from="1687447670810" duration="329000" />
+      <workItem from="1687900371622" duration="856000" />
+      <workItem from="1687979613660" duration="1370000" />
+      <workItem from="1687984609624" duration="533000" />
+      <workItem from="1688004019721" duration="12000" />
+      <workItem from="1688006598769" duration="6000" />
+      <workItem from="1694485189548" duration="352000" />
+      <workItem from="1694485558107" duration="117000" />
+      <workItem from="1694650232781" duration="3654000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode introduction to Big O">
       <created>1683163325781</created>
@@ -154,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684397640796</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="문제풀이">
+      <created>1685073904278</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685073904278</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +211,8 @@
     <MESSAGE value="prefix sum 누적합 끝내고&#10;StringBuilder 공간복잡도 O(N)의 문자열 공부" />
     <MESSAGE value="버전 없는 파일 커밋" />
     <MESSAGE value="배열과 문자열을 다루는 법.&#10;-완-" />
-    <option name="LAST_COMMIT_MESSAGE" value="배열과 문자열을 다루는 법.&#10;-완-" />
+    <MESSAGE value="문제풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="문제풀이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -199,5 +229,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
